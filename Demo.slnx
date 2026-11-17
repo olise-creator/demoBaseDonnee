@@ -4,6 +4,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Demo.Data/Demo.Data.csproj" Id="2463c6b1-33fe-4759-8b2a-cb167f5ccabc" />
   <Project Path="Demo/Demo.csproj">
     <Platform Solution="*|ARM64" Project="ARM64" />
     <Platform Solution="*|x64" Project="x64" />
